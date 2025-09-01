@@ -20,6 +20,6 @@
 
 9)Write a program to perform agglomerative clustering based on single-linkage, complete linkage criteria. 
 
-10) Write a program to develop Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) algorithms.
+10)Write a program to develop Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) algorithms.
     
 11)Write a Program to develop simple single layer perceptron to implement AND, OR Boolean functions. 
